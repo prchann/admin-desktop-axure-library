@@ -3,6 +3,9 @@ A simple and beautiful admin Axure Library for desktop inspired by Bootstrap 4.
 
 [Preview on Axure Cloud](https://8yoq1y.axshare.com)
 
+## Font
+Arial, 13px.
+
 ##  Components 
 Color Panel
 - [x] Color Panel
@@ -44,3 +47,12 @@ Icon
 - [x] Arrow Right
 - [x] Arrow Down
 - [ ] More
+
+## How-to Use
+1. Clone this repo;
+2. Axure - Menu: File - Open... - Select `admin-desktop.rplib` file - Open;
+3. Axure - Pane: Libraries - Select `admin-desktop`;
+4. Drag and Drop Widget.
+
+## Required
+Created by Axure RP 9.
