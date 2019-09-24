@@ -17,6 +17,8 @@ Typography
 Button
 - [x] Primary Button
 - [x] Secondary Button
+- [x] Light Button
+- [x] Warning Button
 - [x] Link Button
 
 Form
@@ -26,8 +28,10 @@ Form
 - [x] Vertical Label Input
 - [x] Text Area
 - [x] Select
+- [x] Select File
 - [x] Checkbox
 - [x] Radio
+- [x] Group
 
 Table
 - [x] Table
