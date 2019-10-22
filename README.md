@@ -22,7 +22,7 @@ View
 - [x] Popover
  - [x] Popover (Left)
 - [x] Table
-- [ ] Toast
+- [x] Toast
 - [x] Tooltips
 
 Control
