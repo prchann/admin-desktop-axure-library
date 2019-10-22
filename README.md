@@ -4,59 +4,63 @@ A simple and beautiful admin Axure Library for desktop inspired by Bootstrap 4.
 [Preview on Axure Cloud](https://8yoq1y.axshare.com)
 
 ## Font
-Arial, 13px.
+Pingfang SC, 14px.
 
-##  Components 
-Color Panel
-- [x] Color Panel
-
-Typography
-- [x] H1, H2, H3, H4, H5, H6
-- [x] Paragraph
-
-Button
-- [x] Primary Button
-- [x] Secondary Button
-- [x] Light Button
-- [x] Warning Button
-- [x] Link Button
-
-Form
-- [x] Input
-- [x] Horizontal Label Input
-- [x] Horizontal Label Input w/ Help Text
-- [x] Vertical Label Input
-- [x] Text Area
-- [x] Select
-- [x] Select File
-- [x] Checkbox
-- [x] Radio
-- [x] Group
-
-Table
-- [x] Table
-- [x] Table w/ Title
-- [ ] Pagination
-
-Notification
+##  Components
+View
+- [x] Alert
+- [x] Card
+ - [x] Card /w Head
+- [x] Information
+ - [x] Success Information
+ - [x] Warning Information
+ - [x] Error Information
+- [x] Line /h
+ - [x] Line /v
 - [x] Notification
+- [ ] Pagination
+- [x] Popover
+ - [x] Popover (Left)
+- [x] Table
+- [ ] Toast
+- [x] Tooltips
 
-Modal
-- [x] Modal
+Control
+- [x] Button
+ - [x] Primary Button
+ - [x] Primary Button (Fill)
+ - [x] Warning Button
+ - [x] Text Button
+ - [x] Button Group
+- [x] Checkbox
+- [x] Date Range Select
+- [x] Dropdown
+ - [x] Dropdown (Text)
+- [x] File
+- [x] Help Text
+- [x] Input
+ - [x] Input Group
+- [x] Label
+- [x] Radio
+- [x] Select
+- [ ] Tab
+- [x] Text Area
 
 Icon
-- [x] Plus
-- [x] Delete
-- [x] Times
-- [x] Arrow Right
 - [x] Arrow Down
-- [ ] More
+- [x] Arrow Right
+- [x] Delete
+- [x] Plus
+- [x] Times
+
+Color
+- [x] Color Panel
 
 ## How-to Use
-1. Clone this repo;
+1. Clone this repo, or download `admin-desktop.rplib` file;
 2. Axure - Menu: File - Open... - Select `admin-desktop.rplib` file - Open;
 3. Axure - Pane: Libraries - Select `admin-desktop`;
-4. Drag and Drop Widget.
+4. Enjoy.
 
 ## Required
 Created by Axure RP 9.
