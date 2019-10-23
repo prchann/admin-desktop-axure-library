@@ -43,7 +43,7 @@ Control
 - [x] Label
 - [x] Radio
 - [x] Select
-- [ ] Tab
+- [x] Tab - use Button Group replace it
 - [x] Text Area
 
 Icon
