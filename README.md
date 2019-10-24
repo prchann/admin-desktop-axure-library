@@ -44,7 +44,7 @@ Control
   - [x] Label (Right Align)
 - [x] Radio
 - [x] Select
-- [x] Tab - use Button Group replace it
+- [x] Tab
 - [x] Text Area
 
 Icon
