@@ -41,6 +41,7 @@ Control
 - [x] Input
  - [x] Input Group
 - [x] Label
+  - [x] Label (Right Align)
 - [x] Radio
 - [x] Select
 - [x] Tab - use Button Group replace it
