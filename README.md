@@ -33,7 +33,7 @@ Control
  - [x] Text Button
  - [x] Button Group
 - [x] Checkbox
-  - [x] Checkbox Border
+ - [x] Checkbox Border
 - [x] Dropdown
  - [x] Dropdown (Text)
 - [x] File
@@ -41,16 +41,17 @@ Control
 - [x] Input
  - [x] Input Group
 - [x] Label
-  - [x] Label (Right Align)
+ - [x] Label (Right Align)
 - [x] Radio
-  - [x] Radio Border
+ - [x] Radio Border
 - [x] Select
 - [x] Tab
 - [x] Text Area
 
 Icon
-- [x] Arrow Down
-- [x] Arrow Right
+- [x] Arrow
+  - [x] Arrow Down
+  - [x] Arrow Right
 - [x] Delete
 - [x] Plus
 - [x] Times
