@@ -33,7 +33,7 @@ Control
  - [x] Text Button
  - [x] Button Group
 - [x] Checkbox
-- [x] Date Range Select
+  - [x] Checkbox Border
 - [x] Dropdown
  - [x] Dropdown (Text)
 - [x] File
@@ -43,6 +43,7 @@ Control
 - [x] Label
   - [x] Label (Right Align)
 - [x] Radio
+  - [x] Radio Border
 - [x] Select
 - [x] Tab
 - [x] Text Area
