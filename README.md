@@ -1,7 +1,7 @@
 # admin-desktop-axure-library
 A simple and beautiful admin Axure Library for desktop inspired by Bootstrap 4.
 
-[Preview on Axure Cloud](https://8yoq1y.axshare.com)
+[Preview on Axure Cloud](https://r62no9.axshare.com)
 
 ## Font
 Pingfang SC, 14px.
