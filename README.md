@@ -34,6 +34,8 @@ Control
  - [x] Button Group
 - [x] Checkbox
  - [x] Checkbox Border
+- [x] Date
+ - [x] Date Time
 - [x] Dropdown
  - [x] Dropdown (Text)
 - [x] File
@@ -44,8 +46,9 @@ Control
  - [x] Label (Right Align)
 - [x] Radio
  - [x] Radio Border
-- [x] Select
- - [x] Select (System)
+- [x] Select (Native)
+ - [x] Select
+ - [x] Select w/ Search
 - [x] Tab
 - [x] Text Area
 
